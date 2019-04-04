@@ -1,5 +1,4 @@
-# galois-field
-Polynomials over Galois Field
+# Polynomials over Galois Field
 
 The polynomials on the finite fields play a fundamental role for the development of algorithms, especially for encryption.
 This project tries to discover the main algorithms about finite fields, trying to emphasize their optimization.
